@@ -12,5 +12,12 @@
       "content": "Wow such content!",
       "username": "zero_cool"
     }
+  ],
+  "live_events" : [
+    {
+      "live_event_id": 0,
+      "status": "status_created",
+      "media_id": "FB817015-79AF-495A-81B9-2813279CBB52"
+    }
   ]
 }
